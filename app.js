@@ -39,10 +39,15 @@
   const CAPTURE_H = 675;
 
   const FRAMES = [
-    { name: "Classic", src: "assets/frames/classic.png" },
-    { name: "Lewisville",   src: "assets/frames/Lewisville.png" },
-    { name: "LHS",     src: "assets/frames/LHS.png" },
-    { name: "Gathering",        src: "assets/frames/Gathering.png" },
+    { name: "Frame 1",  src: "assets/frames/frame_1.png" },
+    { name: "Frame 2",  src: "assets/frames/frame_2.png" },
+    { name: "Frame 3",  src: "assets/frames/frame_3.png" },
+    { name: "Frame 4",  src: "assets/frames/frame_4.png" },
+    { name: "Frame 5",  src: "assets/frames/frame_5.png" },
+    { name: "Frame 6",  src: "assets/frames/frame_6.png" },
+    { name: "Frame 8",  src: "assets/frames/frame_8.png" },
+    { name: "Frame 9",  src: "assets/frames/frame_9.png" },
+    { name: "Frame 10", src: "assets/frames/frame_10.png" },
   ];
 
   let selectedFrame = 0;
